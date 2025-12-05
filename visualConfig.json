@@ -1,0 +1,29 @@
+{
+    "board": {
+        "color": [
+            221,
+            138,
+            60
+        ],
+        "width": 1000,
+        "height": 1000,
+        "detail": {
+            "frame": {
+                "width": 1000,
+                "height": 1000
+            },
+            "frame2": {
+                "width": 1000,
+                "height": 1000
+            },
+            "cup holder": {
+                "color": [0,0,0],
+                "width": 1000,
+                "height": 1000,
+                "x_offset": 1000,
+                "y_offset": 1000,
+                "three": 1000
+            }
+        }
+    }
+}
