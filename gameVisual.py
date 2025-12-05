@@ -181,7 +181,6 @@ dominoTable = DominoTable()
 
 gameInstance = DominoGame()
 
-
 def visualRefresh():
     new_window.clear() 
     batch.draw()    # Draw all shapes in the batch
